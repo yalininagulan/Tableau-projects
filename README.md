@@ -11,7 +11,7 @@ Tableau is a powerful data visualization and business intelligence tool that hel
 
   ![image](https://github.com/user-attachments/assets/e1ff0093-7884-46fd-bc81-9bfac8fdf78f)
 
-  # Spotify Data
+  #  Project 2 : Spotify Data
 -  I find Different genres are compared based on their danceability scores. Genres such as "Rock," "Folk," and "Pop" appear to have higher danceability compared to "A Capella" or Opera." 		
 - Tree Map Displays the total duration of tracks associated with each artist. 	 	
 - Specific 	tracks are compared by their durations. Tracks like "Hallelujah" and "Home" have significantly longer durations compared to others like "Smile" or "Intro."
